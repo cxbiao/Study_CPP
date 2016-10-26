@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1477384293 source:e:\cpp\study_cpp\struct_ref01.cpp
+	<iostream>
+	<stdio.h>
+
+1477387471 source:e:\cpp\study_cpp\con_des_copy02.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1477473502 source:e:\cpp\study_cpp\friend_vaparm03.cpp
+	<iostream>
+	<stdarg.h>
+
